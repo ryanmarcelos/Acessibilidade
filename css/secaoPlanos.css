@@ -17,15 +17,15 @@
 }
 
 .secaoPlanos-plano--start {
-  color: #ffffe0;
+  color: #ff00dd;
 }
 
 .secaoPlanos-plano--ultra {
-  color: #90ee90 ;
+  color: #fbff00;
 }
 
 .secaoPlanos-plano--mega {
-  color: #CC3299;
+  color: #4400ff;
 }
 
 .secaoPlanos-plano-titulo {
@@ -35,7 +35,7 @@
   width: 100%;
   padding: .4em 1em;
   font-size: 1.5em;
-  border-bottom: 1px solid #DFE3E5;
+  border-bottom: 1px solid #a8fff8;
   margin-bottom: .5em;
 }
 
@@ -63,7 +63,7 @@
   padding-left: 30px;
   margin: 1em auto 1.5em auto;
   line-height: 2;
-  list-style: disc;
+  list-style: none;
   color: #666;
   width: 240px;
 }
@@ -86,21 +86,21 @@
 
 .secaoPlanos-plano:nth-of-type(1) .secaoPlanos-plano-btn:hover,
 .secaoPlanos-plano:nth-of-type(1) .secaoPlanos-plano-btn:focus {
-  background-color: #ffffe0;
+  background-color: #ff00dd;
 }
 
 .secaoPlanos-plano:nth-of-type(2) .secaoPlanos-plano-btn:hover,
 .secaoPlanos-plano:nth-of-type(2) .secaoPlanos-plano-btn:focus {
-  background-color: #90ee90;
+  background-color: #fbff00;
 }
 
 .secaoPlanos-plano:nth-of-type(3) .secaoPlanos-plano-btn:hover,
 .secaoPlanos-plano:nth-of-type(3) .secaoPlanos-plano-btn:focus {
-  background-color: #CC3299;
+  background-color: #4400ff;
 }
 
 .secaoPlanos-plano-titulo--destaque {
-  background-color: #CC3299;
+  background-color: #B72E2E;
 }
 
 

@@ -2,9 +2,9 @@
 .secaoDestaque {
   text-align: center;
   background-size: cover;
-  background-color: #FF0000;
+  background-color: #00ac;
   padding: 10em 2em 3em 2em;
-  color: #fff;
+  color: rgba(255, 8, 0, 0.8);
 }
 
 
@@ -26,7 +26,7 @@
 
 .secaoDestaque-cta {
   background-color: transparent;
-  border: 1px solid #fff;
+  border: 1px solid #00ac;
   font-size: 1em;
   width: 100%;
   max-width: 300px;
@@ -40,8 +40,8 @@
 
 .secaoDestaque-cta:hover,
 .secaoDestaque-cta:focus {
-  background: #fff;
-  color: #FF0000;
+  background: #77b6ff;
+  color: #333;
 }
 
 @media (min-width: 830px) {

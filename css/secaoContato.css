@@ -1,12 +1,12 @@
 
 .secaoContato {
-  background-color: #F7F4F4;
+  background-color: #a8fff8;
   text-align: center;
   text-align: left;
 }
 
 .secaoContato-wink {
-  color: #FF0000;
+  color: #a8fff8;
   font-weight: bold;
   font-size: 1.2em;
 }
@@ -27,12 +27,12 @@
   margin-top: 1em;
   display: block;
   background: transparent;
-  color: #FF0000;
-  border: 1px solid #FF0000;
+  color: #009185;
+  border: 1px solid #008378;
 }
 
 .secaoContato-form-cta:hover,
 .secaoContato-form-cta:focus {
   color: #fff;
-  background-color: #FF0000;
+  background-color: #00857a;
 }
