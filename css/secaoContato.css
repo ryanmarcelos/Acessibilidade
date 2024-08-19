@@ -6,7 +6,7 @@
 }
 
 .secaoContato-wink {
-  color: #EB5757;
+  color: #FF0000;
   font-weight: bold;
   font-size: 1.2em;
 }
@@ -27,12 +27,12 @@
   margin-top: 1em;
   display: block;
   background: transparent;
-  color: #B72E2E;
-  border: 1px solid #B72E2E;
+  color: #FF0000;
+  border: 1px solid #FF0000;
 }
 
 .secaoContato-form-cta:hover,
 .secaoContato-form-cta:focus {
   color: #fff;
-  background-color: #B72E2E;
+  background-color: #FF0000;
 }

@@ -48,14 +48,14 @@
   display: block;
   margin: 0 auto;
   background: transparent;
-  color: #B72E2E;
-  border: 1px solid #B72E2E;
+  color: #FF0000;
+  border: 1px solid #FF0000;
 }
 
 .secaoDestaques-form-botao:hover,
 .secaoDestaques-form-botao:focus {
   color: #fff;
-  background-color: #B72E2E;
+  background-color: #FF0000;
 }
 
 

@@ -2,7 +2,7 @@
 .secaoDestaque {
   text-align: center;
   background-size: cover;
-  background-color: #00161c;
+  background-color: #FF0000;
   padding: 10em 2em 3em 2em;
   color: #fff;
 }
@@ -41,7 +41,7 @@
 .secaoDestaque-cta:hover,
 .secaoDestaque-cta:focus {
   background: #fff;
-  color: #333;
+  color: #FF0000;
 }
 
 @media (min-width: 830px) {
