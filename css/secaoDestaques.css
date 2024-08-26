@@ -1,5 +1,5 @@
 .secaoDestaques {
-  background-color: #00acfc;
+  background-color: #a8fff8;
   text-align: center;
 }
 
@@ -20,7 +20,7 @@
 
 .secaoDestaques-link:hover,
 .secaoDestaques-link:focus {
-  background-color: #00acfc;
+  background-color: #a8fff8;
   cursor: pointer;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, .3); 
@@ -54,8 +54,9 @@
 
 .secaoDestaques-form-botao:hover,
 .secaoDestaques-form-botao:focus {
-  color: #00acfc;
-  background-color: #00acfc;
+  color: #a8fff8;
+  background-color:   #a8fff8;
+
 }
 
 
