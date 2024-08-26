@@ -1,16 +1,16 @@
 
 .secaoPlanos {
   text-align: center;
-  background-color: #F7F4F4;
+  background-color: #a8fff8;
 }
 
 .secaoPlanos-plano {
   border-radius: 5px;
-  background-color: #fff;
+  background-color: #a8fff8;
   width: 80%;
   margin: 0 .5em 2em .5em;
   padding-bottom: 2em;
-  box-shadow: 0 2px 9px #ddd;
+  box-shadow: 0 2px 9px #a8fff8;
   max-width: 300px;
   display: inline-block;
 
